@@ -4,7 +4,7 @@
 This project is an e-commerce database schema designed for flexibility and scalability.
 
 ## ERD
-![E-commerce drawio](https://github.com/user-attachments/assets/29764c34-e6d0-430c-8e29-417c1c27e812)
+![Uploading E-commerce.drawio (1).png…]()
 
 
 ## Tables
