@@ -4,7 +4,8 @@
 This project is an e-commerce database schema designed for flexibility and scalability.
 
 ## ERD
-![ERD Screenshot](./erd.png)
+![E-commerce drawio](https://github.com/user-attachments/assets/29764c34-e6d0-430c-8e29-417c1c27e812)
+
 
 ## Tables
 - **brand**: Stores brand info
@@ -25,4 +26,3 @@ This project is an e-commerce database schema designed for flexibility and scala
 2. Insert your data.
 3. Query as needed for your application.
 
-![E-commerce drawio](https://github.com/user-attachments/assets/584bdec7-007f-4074-bc2a-c0f7077cd17b)
