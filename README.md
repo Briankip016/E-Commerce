@@ -3,9 +3,8 @@
 ## Overview
 This project is an e-commerce database schema designed for flexibility and scalability.
 
-## ERD
-![Uploading E-commerce.drawio (1).png…]()
-
+## ERD TABLE
+![E-commerce drawio (1)](https://github.com/user-attachments/assets/d14699e2-ad57-49db-bedb-559585513973)
 
 ## Tables
 - **brand**: Stores brand info
