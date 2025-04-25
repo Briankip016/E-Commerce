@@ -173,6 +173,8 @@ FROM brand b
 LEFT JOIN product p ON b.id = p.brand_id
 GROUP BY b.name;
 
+
+-- TESTING THE CODE
 select *from product_category;
 
 SELECT
